@@ -1,4 +1,4 @@
-// Autosplitter created by MashSRL
+// AutoSplitter created by MashSRL
 // For questions or bug reports, send me a message on Discord @MashSRL
 // With love to GlitchesAndStuff, Muffin42 and Epicdudeguy who helped shape this Speedrun&Community in it's early days
 state("legendofkay")
