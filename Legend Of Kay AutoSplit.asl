@@ -25,7 +25,7 @@ start
 
 split
 {
-    if (current.levelValue != old.levelValue){
+    if (current.levelValue != old.levelValue && current.levelValue != 0){
        return true;
     } else if (current.levelValue == 25 && current.cutsceneValue == 15){
        return true;     
